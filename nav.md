@@ -1,0 +1,4 @@
+- Getting Started
+  - [このWikiについて](?page=intro)
+  - [編集方針](?page=guide)
+  - [湯の丸高原寮](?page=yunomaru)

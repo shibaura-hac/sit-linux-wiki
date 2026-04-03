@@ -1,0 +1,8 @@
+{
+  "title": "芝浦工業大学非公式Wiki",
+  "navigation": "./nav.md",
+  "footer": "./footer.md",
+  "header": "./header.md",
+  "defaultPage": "intro",
+  "tableOfContents": true
+}
