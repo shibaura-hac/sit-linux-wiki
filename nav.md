@@ -1,4 +1,6 @@
-- Getting Started
+- はじめに
   - [このWikiについて](?page=intro)
   - [編集方針](?page=guide)
-  - [湯の丸高原寮](?page=yunomaru)
+- ページ一覧
+  - [GlobalProtectに接続する](?page=globalprotect)
+ 
