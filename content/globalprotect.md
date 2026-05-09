@@ -1,7 +1,8 @@
 # 学校のGlobalProtectにLinuxから接続する方法
 
-２つの方法があります
+３つの方法があります
 - openconnect + gp-saml-gui (無料)
+- [学校が配布しているLinux用のインストーラー (deb, rpmのみ)](https://shibaura3.sharepoint.com/teams/ins-meeting-tm2/Shared%20Documents/Forms/AllItems2.aspx?id=%2Fteams%2Fins-meeting-tm2%2FShared%20Documents%2FGeneral%2FGlobalProtect%2FLinux&p=true&ga=1) (無料)
 - Globalprotect-openconnect (有料)
 
 ## 必要なもの
