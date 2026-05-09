@@ -1,1 +1,1 @@
-# SIT Linux Users' Wiki
+# [SIT Linux Users' Wiki](/sit-linux-wiki)

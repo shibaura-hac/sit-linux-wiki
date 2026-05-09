@@ -11,7 +11,7 @@
 
   --lbw-color:          #1a1a1a;
   --lbw-muted:          #6b7280;
-  --lbw-link:           #2563eb;
+  --lbw-link:           #337ab7;
   --lbw-border:         #e5e7eb;
   --lbw-code-bg:        #f3f4f6;
   --lbw-blockquote-border: #d1d5db;
@@ -39,7 +39,8 @@ a:hover { text-decoration: underline; }
   top: 0;
   z-index: 100;
   height: var(--lbw-header-height);
-  background: #fff;
+  background: #222;
+  color: #888;
   border-bottom: 1px solid var(--lbw-border);
 }
 .lbw-header-inner {
@@ -51,8 +52,8 @@ a:hover { text-decoration: underline; }
 }
 .lbw-header-inner .lbs-paragraph { margin: 0; font-size: 0.85rem; color: var(--lbw-muted); }
 .lbw-header-inner .lbs-image { height: 28px; width: auto; vertical-align: middle; margin-right: 0.4rem; }
-.lbw-header-inner a { color: var(--lbw-color); text-decoration: none; font-weight: 700; font-size: 1.1rem; letter-spacing: -0.02em; }
-.lbw-header-inner a:hover { color: var(--lbw-link); text-decoration: none; }
+.lbw-header-inner a { color: #888; text-decoration: none; font-weight: 700; font-size: 18px; letter-spacing: -0.02em; }
+.lbw-header-inner a:hover { color: #fff; text-decoration: none; }
 .lbw-header-inner .lbs-strong { font-size: 1.1rem; }
 
 /* ─── Body layout ───────────────────────────────────────────── */
